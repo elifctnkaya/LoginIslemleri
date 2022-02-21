@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035500917877",
+    "project_id": "loginislemleri-30e9d",
+    "storage_bucket": "loginislemleri-30e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035500917877:android:65b3c2893f5232c677d43c",
+        "android_client_info": {
+          "package_name": "com.android.loginislemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035500917877-3qm40gtlnlgvtadimv1nekfcmf5k2gvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_j2cLyHL_7G4Ni__boEZ6GMr02SiR7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035500917877-3qm40gtlnlgvtadimv1nekfcmf5k2gvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
